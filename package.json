@@ -62,7 +62,7 @@
     "ember-cli-shims": "^1.1.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-template-lint": "^0.7.5",
-    "ember-cli-uglify": "^1.2.0",
+    "ember-cli-uglify": "^3.0.0",
     "ember-click-outside": "^0.1.12",
     "ember-collapsible-panel": "~1.0.0",
     "ember-collection": "^1.0.0-alpha.7",
